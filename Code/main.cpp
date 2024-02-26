@@ -13,5 +13,20 @@ int main() {
 	r1.getPosition().setX(5);
 	cout << r1.getPosition().getX();
 	system("pause");
+	
+	/*TEST*/
+
+	/*TEST*/
+
+	/*TEST*/
+
+	/*TEST*/
+	
+	/*TEST*/
+	/*TEST*/
+	/*TEST*/
+	/*TEST*/
+	/*TEST*/
+	/*TEST*/
 	/*TEST*/
 }
